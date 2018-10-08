@@ -1,6 +1,6 @@
 # Matt Brock
 
-GitHub repository for my various scripts, most of which have accompanying articles describing their usage on [my blog](http://blog.mattbrock.co.uk).
+GitHub repository for my various scripts, most of which have accompanying articles describing their usage on [my blog](https://cetre.co.uk/blog/).
 
 * [check_hp_ssd](../../tree/master/check_hp_ssd) - Nagios plugin to check SSDs on HP ProLiant DL360 servers and other similar ProLiant hardware.
 * [convert-facebook-likes-to-csv](../../tree/master/convert-facebook-likes-to-csv) - Perl script to convert all liked pages on Facebook to a CSV file for import into a spreadsheet.
@@ -15,5 +15,6 @@ GitHub repository for my various scripts, most of which have accompanying articl
 
 My freelance sysadmin services:
 
-* [CETRE SysAdmin Services](https://cetre.co.uk/sysadmin.html)
+* [CETRE SysAdmin Services](https://cetre.co.uk/sysadmin/)
+* [CETRE Blog](https://cetre.co.uk/blog)
 * [brock@cetre.co.uk](mailto:brock@cetre.co.uk)
